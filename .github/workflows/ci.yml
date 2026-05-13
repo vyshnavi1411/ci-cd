@@ -26,3 +26,5 @@ jobs:
 
       - name: Deploy Step
         run: echo "Deploying application..."
+        #ggujolm
+        # Add your deployment commands here (e.g., kubectl, ssh, etc.)
